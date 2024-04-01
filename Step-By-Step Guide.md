@@ -73,9 +73,9 @@ If you want to use a custom domain for your website, you'll need to configure DN
 1. Access the website by visiting the S3 endpoint URL or custom domain (if configured).
 2. Verify that the website is serving the content correctly and all links and resources are loading properly.
 
+---
 
-
-Check Bucket Policy:
+### Check Bucket Policy:
 
 Navigate to your S3 bucket in the AWS Management Console.
 - Go to the "Permissions" tab.
