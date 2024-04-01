@@ -78,8 +78,9 @@ If you want to use a custom domain for your website, you'll need to configure DN
 Check Bucket Policy:
 
 Navigate to your S3 bucket in the AWS Management Console.
-Go to the "Permissions" tab.
-Check if there's a bucket policy defined. If so, ensure that it allows public access to the objects in the bucket. Here's an example of a bucket policy that grants public read access to all objects in the bucket:
+- Go to the "Permissions" tab.
+- Check if there's a bucket policy defined. If so, ensure that it allows public access to the objects in the bucket.
+- Here's an example of a bucket policy that grants public read access to all objects in the bucket:
 ```
 {
   "Version": "2012-10-17",
